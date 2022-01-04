@@ -1,0 +1,10 @@
+First upload ESP32_OTA
+
+Export binary of MyGif
+
+press the button (GPIO 35) on ESP32 TTGO it will connect to the network and display the SSID and IP
+ 
+go to web browser type IP_ADDRESS/update to upload the .bin file
+e.g:
+192.168.1.171/update
+
